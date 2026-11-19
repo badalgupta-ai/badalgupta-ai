@@ -17,9 +17,5 @@ Computational neuroscience · neural data analysis · machine learning for brain
 ### Tools
 Python (NumPy, SciPy, pandas, scikit-learn, MNE-Python, Matplotlib) · R · SQL · Git · Jupyter
 
-### Elsewhere
-- Founder of the **GREAM Project**, climate literacy across 20+ rural schools in Nepal
-- Presidential Scholar and Davis UWC Scholar (UWC Changshu China)
-
 ### Contact
 [LinkedIn](https://www.linkedin.com/in/badal-gupta-1a9590216) · [contact.badalg@gmail.com](mailto:contact.badalg@gmail.com)
