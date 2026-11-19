@@ -1,6 +1,6 @@
 # Hi, I'm Badal Gupta
 
-Neuroscience + Computer Science student at **Lake Forest College**, working toward a PhD in computational neuroscience.
+Neuroscience + Computer Science student at **Lake Forest College**.
 
 I'm interested in the space between the lab and the model: turning messy, high-dimensional brain recordings into clear answers about how neural circuits work, and using those answers for brain health.
 
